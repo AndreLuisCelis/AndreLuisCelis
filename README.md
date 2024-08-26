@@ -17,8 +17,8 @@ Sou um desenvolvedor front-end com foco em Angular, mas também tenho experiênc
 ## 📫 Como me encontrar
 
 - GitHub: [AndreLuisCelis](https://github.com/AndreLuisCelis)
-- LinkedIn: [seu-perfil-linkedin](https://www.linkedin.com/in/seu-perfil-linkedin/)
-- Email: seuemail@exemplo.com
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-luis-celis-10668b14b/)
+- Email: andreluiscelis@celisapp.com
 
 ## ⚡ Curiosidades sobre mim
 
@@ -28,8 +28,8 @@ Sou um desenvolvedor front-end com foco em Angular, mas também tenho experiênc
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- **Linguagens e Frameworks**: Angular, React, JavaScript, TypeScript, HTML, CSS, Java, Spring Boot
-- **Banco de Dados**: MySQL, MongoDB
+- **Linguagens e Frameworks**: Angular, React, JavaScript, TypeScript, HTML, CSS, Java, Spring Boot, node.js, express
+- **Banco de Dados**: MySQL, MongoDB, Postsgree
 - **DevOps**: Docker, AWS
 - **Outras Ferramentas**: Git, GitHub, Node.js, Express
 
